@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+          "namespace": "android_app",
+          "package_name": "ee.laser.cofounder",
+          "sha256_cert_fingerprints": ["TODO_ASENDA_PWABUILDERI_VOI_PLAY_CONSOLE_FINGERPRINDIGA"]
+    }
+}]
